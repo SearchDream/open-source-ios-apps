@@ -4,10 +4,21 @@ List of open-source iOS apps available in the App Store (see [this list](non-app
 
 Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-apps/issues), [pull requests](https://github.com/dkhamsing/open-source-ios-apps/pulls), or [Twitter](https://twitter.com/dkhamsing).
 
+## News
+App | Lang. | Description 
+--- | ----- | -----------  
+[Designer News App](https://github.com/MengTo/DesignerNewsApp) | Swift | https://itunes.apple.com/app/designer-news-app/id879990495
+
+## Parse
+App | Lang. | Description 
+--- | ----- | -----------  
+[Anypic](https://github.com/ParsePlatform/Anypic) | Objc | Mobile and web app that lets users share photos similar to Instagram https://itunes.apple.com/app/anypic/id539741538
+[AnyWall](https://github.com/ParsePlatform/AnyWall) | Objc | A fun geolocation app built with Parse https://itunes.apple.com/app/anywall/id520955490
+
+
+# TODO
+
 ## Swift
-- Designer News App
-  - https://github.com/MengTo/DesignerNewsApp
-  - https://itunes.apple.com/app/designer-news-app/id879990495
 - Edhita: Text editor
   - https://github.com/tnantoka/edhita
   - https://itunes.apple.com/app/edhita-open-source-text-editor/id398896655
@@ -37,12 +48,6 @@ Feel free to contribute: [issues](https://github.com/dkhamsing/open-source-ios-a
 - A Menjar: Food menu app
   - https://github.com/maurovc/aMenjar
   - https://itunes.apple.com/app/a-menjar!/id816473131
-- Anypic: An open source mobile and web app that lets users share photos similar to Instagram
-  - https://github.com/ParsePlatform/Anypic
-  - https://itunes.apple.com/app/anypic/id539741538
-- AnyWall: A fun geolocation app built with Parse
-  - https://github.com/ParsePlatform/AnyWall
-  - https://itunes.apple.com/app/anywall/id520955490
 - Artsy: The Art World in Your Pocket
   - https://github.com/artsy/eigen
   - https://itunes.apple.com/app/artsy-art-world-in-your-pocket/id703796080
