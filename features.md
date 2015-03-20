@@ -2,7 +2,7 @@
 
 - :large_blue_circle: Objective-C
 - :large_orange_diamond: Swift
-- :watch: Watch Extension
+- :watch: Watch extension
 - :date: Today extension
 
 App   | Lang. | Features | App Store
